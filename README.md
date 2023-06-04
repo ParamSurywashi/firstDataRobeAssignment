@@ -17,6 +17,12 @@ To get started with running this application locally, follow the steps outlined 
 
 Before you can proceed, you will need to have Node.js installed on your computer. If you don't already have it installed, you can download the latest LTS version from the official Node.js website: [https://nodejs.org/en](https://nodejs.org/en).
 
+### Step 2 - Enable Corepack
+
+Open your computer's command prompt (run as administrator) or terminal and run the command `corepack enable`. This is so we can use the **"Yarn Package Manager"** rather than the "Node Package Manager (NPM). This is to manage packages more efficiently.
+
+_Learn more, go to the [yarn website](https://yarnpkg.com/getting-started/install)_
+
 ### Step 3 - Clone This Repository
 
 Next, you will need to clone this repository onto your local machine. You can do this using either the command line or a desktop application like [GitHub Desktop](https://desktop.github.com/).
