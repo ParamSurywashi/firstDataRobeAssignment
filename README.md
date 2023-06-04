@@ -62,15 +62,15 @@ git clone https://github.com/ParamSurywashi/firstDataRobeAssignment.git
 ### Step 2. Navigate to the project directory:
 cd firstDataRobeAssignment
 
-Building and Running with Docker (Production Mode) :
+### Building and Running with Docker (Production Mode) :
 
-Build the Docker image      :          
+### Build the Docker image      :          
 docker build -t first-data-robe-assignment .
 
 
-Run the Docker container        :        
+### Run the Docker container        :        
 docker run -p 8800:80 first-data-robe-assignment
 
 
-Accessing the Application       
+### Accessing the Application       
 Once the application is running, you can access it by opening http://localhost:8800 in your web browser.
