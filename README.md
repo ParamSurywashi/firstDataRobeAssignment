@@ -24,10 +24,10 @@ Open your computer's command prompt (run as administrator) or terminal and run t
 _Learn more, go to the [yarn website](https://yarnpkg.com/getting-started/install)_
 
 ### Step 3 - Clone This Repository
+git clone https://github.com/ParamSurywashi/firstDataRobeAssignment.git
 
 Next, you will need to clone this repository onto your local machine. You can do this using either the command line or a desktop application like [GitHub Desktop](https://desktop.github.com/).
 
-_Learn more about using [command line git](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html)_
 
 ### Step 4 - Install Dependencies
 
@@ -54,12 +54,12 @@ To run the application, use the following commands:
 Vite offers many options for deployment of static sites. To find out more on using Vite to deploy a static site via GitLab, please go here - [vite documentation on static deployment](https://vitejs.dev/guide/static-deploy.html#gitlab-pages-and-gitlab-ci)
 
 
-Using Docker
+### Using Docker
 
-1. Clone the repository to your local machine     :   
+### Step 1 - Clone This RepositoryClone the repository to your local machine     :   
 git clone https://github.com/ParamSurywashi/firstDataRobeAssignment.git
 
-2. Navigate to the project directory:
+### Step 2. Navigate to the project directory:
 cd firstDataRobeAssignment
 
 Building and Running with Docker (Production Mode) :
