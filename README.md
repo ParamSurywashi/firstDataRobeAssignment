@@ -59,7 +59,11 @@ Vite offers many options for deployment of static sites. To find out more on usi
 ### Step 1 - Clone This RepositoryClone the repository to your local machine     :   
 git clone https://github.com/ParamSurywashi/firstDataRobeAssignment.git
 
-### Step 2. Navigate to the project directory:
+### Step 2 - Enable Corepack
+
+Open your computer's command prompt (run as administrator) or terminal and run the command `corepack enable`. This is so we can use the **"Yarn Package Manager"** rather than the "Node Package Manager (NPM). This is to manage packages more efficiently.
+
+### Step 3. Navigate to the project directory:
 cd firstDataRobeAssignment
 
 ### Building and Running with Docker (Production Mode) :
